@@ -4,4 +4,4 @@ list of topics
 2. child list
 3. summary tag for dropdown box
 4. apply external css for changing the colour of topic when it is done.
-5. external css for summary tag also.
+5. external css for summary tag also
